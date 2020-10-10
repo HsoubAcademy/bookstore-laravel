@@ -50,7 +50,7 @@
 * الآن أصبح المشروع جاهز للتشغيل ننفذ الأمر:
 <h6 dir="ltr">
 
-`php artisan migrate:serve`
+`php artisan serve`
 
 </h6>
 
